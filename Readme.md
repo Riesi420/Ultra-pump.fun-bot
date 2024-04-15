@@ -38,7 +38,7 @@ This bot caters to both experienced traders seeking to automate their workflow a
 
 ### Purchase Information
 
-If you're interested in acquiring the Pump.fun Trading Automation Bot for 10 SOL, please contact us through the following channel:
+If you're interested in acquiring the Pump.fun Trading Automation Bot for 3 SOL, please contact us through the following channel:
 
 * Telegram: [https://t.me/devgenpy](https://t.me/devgenpy)
 
