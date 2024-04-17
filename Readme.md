@@ -4,7 +4,7 @@ Ultra pump fun bot that automates buy sell on pump.fun.
 Snipe tokens at first and sell by take profit strategy.
 
 
-**Please note:** Bot's price is set to 3 SOL.
+**Please note:** Bot's price is set to 5 SOL.
 Get it by now.
 
 Will rise to 8 SOL after few weeks. Only few slots left due to rising demand.
@@ -73,7 +73,7 @@ This bot caters to both experienced traders seeking to automate their workflow a
 
 ### Purchase Information
 
-If you're interested in acquiring the Pump.fun Trading Automation Bot for 3 SOL, please contact us through the following channel:
+If you're interested in acquiring the Pump.fun Trading Automation Bot for 5 SOL, please contact us through the following channel:
 
 * Telegram: [https://t.me/devgenpy](https://t.me/devgenpy)
 
