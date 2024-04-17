@@ -67,7 +67,7 @@ This bot caters to both experienced traders seeking to automate their workflow a
 
 ### Getting Started
 
-1. **Code Access:** Explore the bot's Python code to understand its functionalities.
+1. **Code Access:** Explore the bot's Nodejs code to understand its functionalities.
 2. **Customization:** Modify the code to align with your specific trading preferences and strategies.
 3. **Contribution:** Feel free to contribute to the project's development by suggesting improvements or fixing bugs.
 
