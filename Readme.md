@@ -7,7 +7,40 @@ Snipe tokens at first and sell by take profit strategy.
 **Please note:** Bot's price is set to 3 SOL.
 Get it by now.
 
-Will rise to 8 SOL after few weeks.
+Will rise to 8 SOL after few weeks. Only few slots left due to rising demand.
+
+
+## Images
+
+> Trading live terminal view:
+> 
+![image](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/3d0dfa00-d5ad-42fd-881c-0586b531305e)
+
+> Fetches new tokens instanlty
+
+![image](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/e7b44a0d-e323-4307-ba1e-1823be1b42d2)
+
+
+> Message on telegram for live demo vedio.
+
+
+Its just like token sniper and with preset rules. You can customise almost anything in it.
+ 
+**Bot capabilities: **
+1. Track new tokens
+2. Buy it 
+3. Sell on profit/Loss 
+4.(Sniper mode) Instantly buy & sell 
+
+Let me know if you want to book a slot for it.
+
+
+
+### Benefits
+
+* Ultra Fast token sniping and automomous trading.
+* Faster than Pump.Fun itself.
+* Cheaper than any other alternative out there.
 
 
 ### Features
@@ -19,12 +52,6 @@ Will rise to 8 SOL after few weeks.
 * **Optimized Workflow:** Saves you time and effort by automating repetitive tasks.
 * **Seamless Integration:** Connects flawlessly with the pump.fun platform through its API.
 
-### Benefits
-
-* **Increased Efficiency:** Automates trading, frees up your time, and eliminates manual order placement.
-* **Strategic Decision-Making:** Back your trades with data-driven strategies and avoid emotional impulses.
-* **Enhanced Tracking:** Gain a comprehensive overview of your portfolio performance.
-* **Real-time Awareness:** Stay informed about market movements and react quickly to opportunities.
 
 ### Who Should Use This Bot?
 
