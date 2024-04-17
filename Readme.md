@@ -12,7 +12,7 @@ Will rise to 8 SOL after few weeks. Only few slots left due to rising demand.
 
 ### Purchase Information
 
-If you're interested in acquiring the Pump.fun Trading Automation Bot for 3 SOL, please contact us through the following channel:
+If you're interested in acquiring the Pump.fun Trading Automation Bot for 5 SOL, please contact us through the following channel:
 
 * Telegram: [https://t.me/devgenpy](https://t.me/devgenpy)
 
