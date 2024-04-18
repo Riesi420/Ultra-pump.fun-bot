@@ -1,27 +1,28 @@
 ## Pump.fun Trading Automation Bot
 
+
+🎢🎯 Introducing the http://Pump.fun Token Sniper Bot! 🎯🎢
+
 Ultra pump fun bot that automates buy sell on pump.fun.
 Snipe tokens at first and sell by take profit strategy.
 
+![hksjdksklds](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/0eb854db-8db4-4453-9358-ca8f4d98d49d)
 
-**Please note:** Bot's price is set to 5 SOL.
-Get it by now.
-
-Will rise to 8 SOL after few weeks. Only few slots left due to rising demand.
 
 
 ### Purchase Information
 
-If you're interested in acquiring the Pump.fun Trading Automation Bot for 5 SOL, please contact us through the following channel:
+If you're interested in acquiring the Pump.fun , please contact us through the following channel:
 
-* Telegram: [https://t.me/devgenpy](https://t.me/devgenpy)
+* Telegram: [https://dub.sh/neVUN3Y](https://dub.sh/neVUN3Y)
 
   
 
 ## Images
 
+
 > Trading live terminal view:
-> 
+ 
 ![image](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/3d0dfa00-d5ad-42fd-881c-0586b531305e)
 
 > Fetches new tokens instanlty
@@ -46,6 +47,12 @@ Let me know if you want to book a slot for it.
 
 ### Benefits
 
+Our bot is designed to help you maximize your profits and minimize your effort.
+
+🔹 Auto-Buy your tokens.
+🔹 Auto-sell your tokens.
+🔹 Auto snipping.
+
 * Ultra Fast token sniping and automomous trading.
 * Faster than Pump.Fun itself.
 * Cheaper than any other alternative out there.
@@ -69,12 +76,11 @@ This bot caters to both experienced traders seeking to automate their workflow a
 
 1. **Code Access:** Explore the bot's Nodejs code to understand its functionalities.
 2. **Customization:** Modify the code to align with your specific trading preferences and strategies.
-3. **Contribution:** Feel free to contribute to the project's development by suggesting improvements or fixing bugs.
 
 ### Purchase Information
 
-If you're interested in acquiring the Pump.fun Trading Automation Bot for 5 SOL, please contact us through the following channel:
+If you're interested in acquiring the Pump.fun bot, please contact us through the following channel:
 
-* Telegram: [https://t.me/devgenpy](https://t.me/devgenpy)
+* Telegram: [https://dub.sh/neVUN3Y](https://dub.sh/neVUN3Y)
 
 We're happy to discuss the details and answer any questions you might have.
