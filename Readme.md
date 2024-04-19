@@ -1,22 +1,17 @@
 ## Pump.fun Trading Automation Bot
 
-
-🎢🎯 Introducing the http://Pump.fun Token Sniper Bot! 🎯🎢
-
-Ultra pump fun bot that automates buy sell on pump.fun.
+pumpfunbot that automates buy and sell on pump.fun tokens. Fully automated snipper bot for pumpfun. 
 Snipe tokens at first and sell by take profit strategy.
+
+
+If you're interested in acquiring the Pump.fun or have any doubts , please contact us through the following channel:
+
+* Contact: [https://dub.sh/neVUN3Y](https://dub.sh/neVUN3Y)
+
+Get the full source code of the pumpfun trade bot that does automated trading.
 
 ![hksjdksklds](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/0eb854db-8db4-4453-9358-ca8f4d98d49d)
 
-
-
-### Purchase Information
-
-If you're interested in acquiring the Pump.fun , please contact us through the following channel:
-
-* Telegram: [https://dub.sh/neVUN3Y](https://dub.sh/neVUN3Y)
-
-  
 
 ## Images
 
@@ -24,13 +19,6 @@ If you're interested in acquiring the Pump.fun , please contact us through the f
 > Trading live terminal view:
  
 ![image](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/3d0dfa00-d5ad-42fd-881c-0586b531305e)
-
-> Fetches new tokens instanlty
-
-![image](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/e7b44a0d-e323-4307-ba1e-1823be1b42d2)
-
-
-> Message on telegram for live demo vedio.
 
 
 Its just like token sniper and with preset rules. You can customise almost anything in it.
@@ -43,6 +31,10 @@ Its just like token sniper and with preset rules. You can customise almost anyth
 
 Let me know if you want to book a slot for it.
 
+
+> Fetches new tokens instanlty
+
+![image](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/e7b44a0d-e323-4307-ba1e-1823be1b42d2)
 
 
 ### Benefits
@@ -72,12 +64,7 @@ Our bot is designed to help you maximize your profits and minimize your effort.
 
 This bot caters to both experienced traders seeking to automate their workflow and newcomers who want to leverage algorithmic strategies. 
 
-### Getting Started
-
-1. **Code Access:** Explore the bot's Nodejs code to understand its functionalities.
-2. **Customization:** Modify the code to align with your specific trading preferences and strategies.
-
-### Purchase Information
+### Information
 
 If you're interested in acquiring the Pump.fun bot, please contact us through the following channel:
 
